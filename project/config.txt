@@ -1,0 +1,3 @@
+Project name: Time Capsule
+version: 1
+Operating System: Windows
